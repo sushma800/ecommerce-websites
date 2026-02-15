@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "E-Commerce Website with cart functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "shopping",
+    "cart"
+  ],
+  "author": "",
+  "license": "ISC"
+}
